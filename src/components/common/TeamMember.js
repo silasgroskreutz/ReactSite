@@ -5,7 +5,7 @@ class TeamMember extends Component {
     return (
       <div class='col-sm-4'>
         <div class='team-member'>
-          <img class='mx-auto rounded-circle' src='{this.props.image}' alt='' />
+          <img class='mx-auto rounded-circle' src='{this.props.image}' alt='team photo' />
           <h4>Kay Garland</h4>
           <p class='text-muted'>Lead Designer</p>
           <ul class='list-inline social-buttons'>

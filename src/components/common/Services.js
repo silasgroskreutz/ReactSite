@@ -4,15 +4,22 @@ import SingleService from './SingleService';
 const services = [
   {
     title: 'E-Commerce',
-    dsecription: 'Shop Shop Shop',
+    description:
+      'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.',
     icon: 'fa-shopping-cart'
   },
   {
     title: 'Responsive Design',
-    dsecription: 'Yep, I respond',
+    description:
+      'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.',
     icon: 'fa-laptop'
   },
-  { title: 'Web Security', dsecription: 'Super secret', icon: 'fa-lock' }
+  {
+    title: 'Web Security',
+    description:
+      'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.',
+    icon: 'fa-lock'
+  }
 ];
 
 class Services extends Component {

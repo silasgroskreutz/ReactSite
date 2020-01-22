@@ -9,7 +9,7 @@ class Field extends Component {
             className='form-control'
             id={this.props.name}
             type={this.props.type}
-            placeholder={this.props.name}
+            placeholder={this.props.placeholder}
             required='required'
             data-validation-required-message='Please enter your name.'
             name={this.props.name}

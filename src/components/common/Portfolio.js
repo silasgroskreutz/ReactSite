@@ -9,7 +9,7 @@ import img6 from '../assets/img/portfolio/06-thumbnail.jpg';
 
 const portfolio = [
   { title: 'Threads', subtitle: 'Illustration', image: img1 },
-  { title: 'Explore', subtitle: 'Grpahic Design', image: img2 },
+  { title: 'Explore', subtitle: 'Graphic Design', image: img2 },
   { title: 'Finish', subtitle: 'Identity', image: img3 },
   { title: 'Lines', subtitle: 'Branding', image: img4 },
   { title: 'Southwest', subtitle: 'Website Design', image: img5 },
